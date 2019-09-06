@@ -2,8 +2,8 @@ var computerChoices = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l
 "s", "t", "u", "v", "w", "x", "y", "z"];
 var wins = document.getElementById("wins");
 var losses = document.getElementById("losses");
-var guessesRemaining = document.getElementById("guessesRemaining");
-var guessesSoFar = document.getElementById("guessesSoFar");
+var guessesLeft = document.getElementById("guessesLeft");
+var guesses = document.getElementById("guesses");
 
 
 document.onkeyup = function(event) {
