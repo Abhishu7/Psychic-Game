@@ -2,7 +2,7 @@
 Javascript Gussing Game
 # Technologies Used 
 *HTML
-*CSS 
+*Javascript
 # Built With 
 Visual Studio Code 
 # Authors 
